@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+<title>Wowhead News</title>
+<link>https://classic.wowhead.com/news</link>
+<description>World of Warcraft: Battle for Azeroth News</description>
+<image>
+    <url>https://wow.zamimg.com/images/logos/wh-logo.png</url>
+    <title>Wowhead News</title>
+    <link>https://classic.wowhead.com/news</link>
+</image>
+<language>en-US</language>
+<ttl>5</ttl>
+<lastBuildDate>Wed, 21 Aug 2019 15:33:34 -0500</lastBuildDate>
+<item>
+<title><![CDATA[Original WoW Game Designers Discuss Vanilla and Classic WoW]]></title>
+<link>https://classic.wowhead.com/news=294615/original-wow-game-designers-discuss-vanilla-and-classic-wow</link>
+<description><![CDATA[Original WoW game designers Alex Afrasiabi, Tom Chilton, Jeff Kaplan, Pat Nagle, and Aaron Keller discuss Vanilla and Classic WoW.<p>A lot of the first things developed and designed were in the Human Starting Zone, Elwynn Forest and Westfall, Quests, Artwork, and Characters. During early development, the Game Designers claim they were quite naive, without taking much consideration in the things they were designing and creating.<br><br><em><b><a href="https://classic.wowhead.com/news=294615/original-wow-game-designers-discuss-vanilla-and-classic-wow">Continue reading &#187;</a></b></em>]]></description>
+<pubDate>Wed, 21 Aug 2019 12:52:00 -0500</pubDate>
+<guid isPermalink="false">https://classic.wowhead.com/news=294615</guid>
+<media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://wow.zamimg.com/uploads/blog/images/16974-original-wow-game-designers-discuss-vanilla-and-classic-wow.jpg" medium="image" type="image/jpeg" height="675" width="1200" />
+</item>
+</channel>
+</rss>
